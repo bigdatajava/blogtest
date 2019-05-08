@@ -1,15 +1,15 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
+name: 刘自超的博客
+email: bigdatajava@163.com
+author: 刘自超
 url: http://www.liuwc.xyz
-resume_site: http://www.hifreud.com/Resume.io/
+resume_site: http://www.liuwc.xyz
 github: https://github.com/bigdatajava/
 baseurl: /
-description: Actually, less is more!
+description: 实践出真理！
 meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+motto: 每天进步一点点！
+banner: 学而不思则罔，思而不学则殆
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -22,5 +22,5 @@ github_username: bigdatajava
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+baidu_analysis: d026513547b5f6305f334289d9d4fdad
 
