@@ -2,7 +2,7 @@
 layout:     post
 title:      "使用npm命令安装库时,遇到 npm ERR! fetch failed https://registry.npmjs.org/xxx的问题"
 date:       2016-11-23 12:00:01 +0800
-categories:	npm
+categories:	问题解决
 tags:	npm
 ---
 
