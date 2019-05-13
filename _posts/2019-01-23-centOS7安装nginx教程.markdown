@@ -2,7 +2,7 @@
 layout:     post
 title:      "centos 7 安装nginx教程"
 date:       2018-01-23 12:00:01 +0800
-categories:	nginx
+categories:	技术
 tags:	nginx
 ---
 

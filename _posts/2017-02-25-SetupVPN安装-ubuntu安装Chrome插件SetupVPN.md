@@ -3,8 +3,8 @@ layout:     post
 title:      "SetupVPN安装-ubuntu安装Chrome插件SetupVPN"
 date:       2017-02-25
 author:     "刘自超"
-categories:	ubuntu教程
-tags:	SetupVPN
+categories:	Linux
+tags:	ubuntu
 ---
 
 

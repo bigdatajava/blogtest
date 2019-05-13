@@ -2,7 +2,7 @@
 layout:     post
 title:      "SpringBoot整合Mybatis打印SQL语句在控制台"
 date:       2019-02-12 12:00:01 +0800
-categories:	SpringBoot
+categories:	技术
 tags:	SpringBoot
 ---
 

@@ -2,8 +2,8 @@
 layout:     post
 title:      "ubuntu显示windows盘挂载出错问题解决"
 date:       2016-08-15 12:00:01 +0800
-categories:	ubuntu笔记
-tags:	ubuntu显示windows盘挂载出错问题解决
+categories:	Linux
+tags:	ubuntu
 ---
 
 * content

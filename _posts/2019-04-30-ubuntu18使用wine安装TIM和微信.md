@@ -2,8 +2,8 @@
 layout:     post
 title:      "ubuntu18使用wine安装TIM和微信"
 date:       2016-08-15 12:00:01 +0800
-categories:	ubuntu笔记
-tags:	ubuntu18使用wine安装TIM和微信
+categories:	Linux
+tags:	ubuntu
 ---
 
 * content

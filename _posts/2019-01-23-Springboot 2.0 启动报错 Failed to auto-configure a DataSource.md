@@ -2,7 +2,7 @@
 layout:     post
 title:      "SpringBoot 2.0 启动报错 Failed to auto-configure a DataSource"
 date:       2019-01-12 12:00:01 +0800
-categories:	SpringBoot
+categories:	问题解决
 tags:	SpringBoot
 ---
 

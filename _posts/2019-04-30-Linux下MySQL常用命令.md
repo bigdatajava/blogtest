@@ -2,7 +2,7 @@
 layout:     post
 title:      "Linux下MySQL常用命令"
 date:       2016-08-15 12:00:01 +0800
-categories:	MySQL
+categories:	数据库
 tags:	MySQL
 ---
 

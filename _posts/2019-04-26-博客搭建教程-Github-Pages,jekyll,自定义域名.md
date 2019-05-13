@@ -2,7 +2,7 @@
 layout:     post
 title:      "博客搭建教程-Github Pages,jekyll,自定义域名"
 date:       2019-04-26 12:00:01 +0800
-categories:	博客搭建
+categories:	技术
 tags:	博客搭建
 ---
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Java实现nginx负载均衡"
 date:       2017-04-15 12:00:01 +0800
-categories:	nginx
+categories:	技术
 tags:	nginx
 ---
 

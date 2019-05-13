@@ -2,7 +2,7 @@
 layout:     post
 title:      "MD文档添加Github图床图片"
 date:       2017-02-25 12:00:01 +0800
-categories:	图床
+categories:	工具
 tags: 图床
 ---
 

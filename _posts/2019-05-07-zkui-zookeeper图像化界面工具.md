@@ -2,7 +2,7 @@
 layout:     post
 title:      "zkui-zookeeper图像化界面工具使用教程"
 date:       2019-05-07 12:00:01 +0800
-categories:	zookeeper
+categories:	技术
 tags:	zkui
 ---
 

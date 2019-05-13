@@ -2,7 +2,7 @@
 layout:     post
 title:      "ElasticSearch教程"
 date:       2019-04-25 12:00:01 +0800
-categories:	ElasticSearch
+categories:	技术
 tags:	ElasticSearch
 ---
 
